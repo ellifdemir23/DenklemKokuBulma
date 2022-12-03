@@ -1,0 +1,10 @@
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\bin\Debug\netcoreapp2.1\kökBulma2ElifDemir.deps.json
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\bin\Debug\netcoreapp2.1\kökBulma2ElifDemir.runtimeconfig.json
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\bin\Debug\netcoreapp2.1\kökBulma2ElifDemir.runtimeconfig.dev.json
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\bin\Debug\netcoreapp2.1\kökBulma2ElifDemir.dll
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\bin\Debug\netcoreapp2.1\kökBulma2ElifDemir.pdb
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\obj\Debug\netcoreapp2.1\kökBulma2ElifDemir.csproj.CoreCompileInputs.cache
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\obj\Debug\netcoreapp2.1\kökBulma2ElifDemir.AssemblyInfoInputs.cache
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\obj\Debug\netcoreapp2.1\kökBulma2ElifDemir.AssemblyInfo.cs
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\obj\Debug\netcoreapp2.1\kökBulma2ElifDemir.dll
+C:\Users\dbdb4\source\repos\kökBulma2ElifDemir\kökBulma2ElifDemir\obj\Debug\netcoreapp2.1\kökBulma2ElifDemir.pdb
